@@ -3236,3 +3236,5 @@ input, select, textarea {
     object-position: center; /* change to "top", "left", etc. to choose what's kept */
     display: block;
 }
+
+#header .avatar { cursor: zoom-in; }
